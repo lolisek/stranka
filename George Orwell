@@ -44,16 +44,26 @@
         color: white;
         font-weight: 700;
         text-align: center;
-        background-color: indianred;
+        background-color: #900;
         border-collapse: separate;
         padding: 20px;
         ;
     }
+    
+    .citace{
+font-weight: 700; text-align: center; border-collapse: separate; font-style: italic; color: #1A1A1A; font-variant: normal;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
     </style>
 </head>
 
 <body>
     <nav>
+        <a href="./George Orwell">George Orwell</a>
         <a href="./knihy">Orwellova díla</a>
         <a href="./1984">Úryvek 1984</a>
         <a href="./Farma">Úryvek Farmy zvířat</a>
@@ -62,8 +72,11 @@
 
     <h1>George Orwell</h1>
     <p>George Orwell byl britský spisovatel, novinář a esejista, původním jménem Eric Arthur Blair. Narodil se <span class="datum">25. června 1903</span> v Indii a zemřel <span class="datum">21. ledna 1950</span>. Orwell je znám svými politicky angažovanými díly, která kritizují totalitní režimy a autoritářskou moc.</p>
+    
+    <h3 class="citace">“Who controls the past controls the future. Who controls the present controls the past.”<br>
+    -George Orwell</h3>
 
-    <img src="https://a2larm.cz/wp-content/uploads/2018/07/25600363458_49fe18c8c4_o.jpg" width=1000 align=middle alt="George Orwell">
+    <img src="https://a2larm.cz/wp-content/uploads/2018/07/25600363458_49fe18c8c4_o.jpg" width=1000 align=middle alt="George Orwell" class="center">
 
     <h2>Biografie</h2>
     <p>George Orwell se narodil v Indii, jež byla tehdy součástí Britského impéria a kde jeho otec Richard Walmesley Blair <span class="datum">(1857–1939)</span> pracoval jako úředník. Když bylo Orwellovi kolem jednoho roku, odvezla ho jeho matka Ida Mabel Blairová <span class="datum">(1875–1943)</span> do Anglie. Otce viděl až za několik let. Měl dvě sestry, starší Marjorie <span class="datum">(1898–1946)</span> a mladší Avril <span class="datum">(1908–1978)</span>. Vyrůstal v Oxfordshiru a podle místní říčky Orwell si později zvolil pseudonym. Svou rodinu později popsal jako „nižší vyšší střední třídu“.</p>
@@ -85,7 +98,7 @@
         <li>Hold Katalánsku</li>
         <li>Tak to vidím já</li>
         <li>Barmské dny</li>
-        <li>Politika a anglický jazyk</li>
+        <li>A další...</li>
     </ul>
 
     <h2>Zajímavá fakta</h2>
