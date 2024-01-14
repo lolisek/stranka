@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<title>George Orwell</title>
+
+<head>
+    <style>
+    body {
+        font-family: serif;
+        font-size: large;
+        text-align: justify;
+        background-color: whitesmoke;
+        ;
+    }
+
+    h1 {
+        font-family: serif;
+        text-align: center;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    h2 {
+        font-family: serif;
+        text-align: left;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    .datum {
+        font-style: italic;
+        font-variant: normal;
+        font-weight: 600;
+        ;
+    }
+
+    nav {
+        margin: 20px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        background-color: #900;
+        border-collapse: separate;
+        padding: 20px;
+        ;
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="./George Orwell">George Orwell</a>
+        <a href="./knihy">Orwellova díla</a>
+        <a href="./1984">Úryvek 1984</a>
+        <a href="./Farma">Úryvek Farmy zvířat</a>
+        <a href="./Katalansko">Úryvek Holdu Katalánsku</a>
+    </nav>
+<h1>Úryvek z knihy 1984</h1>
+<h2>Dvě Minuty nenávisti</h2>
+<p>"Tmavovlasá dívka za Winstonem začala vykřikovat "Svině!" a zničehonic popadla
+těžký slovník newspeaku a mrštila jím do obrazovky. Zasáhl Goldsteina do nosu
+a odrazil se; hlas neústupně mluvil dál. Winston v jasném okamžiku zjistil, že
+řve s ostatními a zuřivě kope patou do trnože. Na Dvou minutách nenávisti nebylo
+tak hrozné, že se jich člověk musel účastnit, ale že bylo nemožné nezapojit se.
+Po třiceti vteřinách se už nikdo nemusel přetvařovat. Odporná extáze strachu a
+pomstychtivosti, touha zabíjet, mučit, rozsekat obličeje kovářským kladivem,
+projela všemi jako elektrický proud a zmìnila každého i proti jeho vùli v ječícího
+šílence. Byla to však zuřivost abstraktní a přímo nesměrovaná, takže se dala přenést
+z jednoho předmětu na druhý jako plamen z plamenometu. Winstonova nenávist
+nebyla tak v jednu chvíli vùbec namířena proti Goldsteinovi, ale naopak proti
+Velkému bratru, Straně a Ideopolicii. V takových okamžicích cítil v srdci
+náklonnost k osamělému, zesměšňovanému kacíři na obrazovce, jedinému strážci
+pravdy a zdravého rozumu ve světě lží. A přece hned vzápětí byl zase zajedno
+s ostatními a vše, co se o Goldsteinovi říkalo, mu připadalo pravdivé. V takových
+chvílích se tajné proklínání Velkého bratra mìnilo na uctívání, zdálo se mu, že se
+Velký bratr tyčí do výše jako neporazitelný a neohrožený ochránce, pevná skála
+proti hordám z Asie, a Goldstein přes svou izolovanost a bezmocnost a
+pochybnost, která se vznášela nad samotnou jeho existencí, mu připadal jako
+zlověstný čaroděj, schopný pouhou silou svého hlasu zničit stavbu civilizace</p>
+<img src="https://www.milwaukeeindependent.com/wp-content/uploads/2019/06/1984OrwellBigBrotherImage_01.jpg" alt="Obrázek oka" width=1000 class="center">
+</body>
+</html>
