@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<title>Farma</title>
+
+<head>
+    <style>
+    body {
+        font-family: serif;
+        font-size: large;
+        text-align: justify;
+        background-color: whitesmoke;
+        ;
+    }
+
+    h1 {
+        font-family: serif;
+        text-align: center;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    h2 {
+        font-family: serif;
+        text-align: left;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    .datum {
+        font-style: italic;
+        font-variant: normal;
+        font-weight: 600;
+        ;
+    }
+
+    nav {
+        margin: 20px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        background-color: #900;
+        border-collapse: separate;
+        padding: 20px;
+        ;
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="./George Orwell">George Orwell</a>
+        <a href="./knihy">Orwellova díla</a>
+        <a href="./1984">Úryvek 1984</a>
+        <a href="./Farma">Úryvek Farmy zvířat</a>
+        <a href="./Katalansko">Úryvek Holdu Katalánsku</a>
+    </nav>
+<h1>Úryvek z knihy Farma zvířat</h1>
+<h2>Hádka</h2>
+<p>Já jsem zvíře, ty jsi zvíře,
+my jsme všichni zvířata,
+budoucnost jak zlato září
+veselá a bohatá.</p>
+
+<p>Jednou přijde slavná chvíle,
+kdy bez lidí budem žít,
+rodnou hroudu vlasti drahé
+jen pro sebe budem mít.</p>
+
+<p>Kde jsou zvonce, kde je chomout,
+kde je postroj z našich zad?
+Ostruhy a kruté biče,
+těch se každý zbaví rád.</p>
+
+<p>Moře sena, moře zrní,
+každý bude spokojen.
+Jetel, oves, boby taky
+budou naše v onen den.</p>
+
+<p>Jasné slunce nad Anglií,
+čistší voda potoků,
+vítr bude vonět jarem,
+až shodíme jho otroků.</p>
+
+<p>Přiložíme nohu k dílu
+pro tu naši svobodu,
+volněji se bude dýchat
+zvířecímu národu.</p>
+
+<p>Já jsem zvíře, ty jsi zvíře,
+my jsme všichni zvířata,
+budoucnost jak zlato září
+veselá a bohatá.</p>
+
+<p>***</p>
+
+<p>Z domu se ozývala změť hlučných hlasů. Vrátila se zpět a zpět nahlédla oknem. Ano, probíhala tam zuřivá hádka. Ozývaly se výkřiky, mlátilo se pěstmi do stolu, vrhaly se zuřivé pohledy a pronášela vášnivá obvinění. Zdá se, že příčinou hádky byla skutečnost, že Napoleon i pan Pilkington zahráli najednou károvým esem.
+Dvanáct rozčilených hlasů na sebe křičelo, a všechny si byly podobné. Teď už nebylo pochyb o tom, že s tvářemi prasat se něco stalo. Zvenčí pohlížela zvířata z prasete na člověka. Ale nebylo už možné rozlišit, která tvář patří člověku a která praseti.</p>
+<img src="https://im.tiscali.cz/games/2017/09/07/850800-ferme-des-animaux-1954-03-g-base_16x9.jpg.1152?1588276212.0" alt="Obrázek prasat" width=1000 class="center">
+</body>
+</html>
