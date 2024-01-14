@@ -63,7 +63,7 @@ font-weight: 700; text-align: center; border-collapse: separate; font-style: ita
 
 <body>
     <nav>
-        <a href="./George Orwell">George Orwell</a>
+        <a href="./index">George Orwell</a>
         <a href="./knihy">Orwellova díla</a>
         <a href="./1984">Úryvek 1984</a>
         <a href="./Farma">Úryvek Farmy zvířat</a>
