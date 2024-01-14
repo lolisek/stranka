@@ -1,58 +1,102 @@
 <!DOCTYPE html>
 <html>
 <title>George Orwell</title>
+
 <head>
-<style>
-    body{font-family: serif; font-size: large; text-align: justify;;
+    <style>
+    body {
+        font-family: serif;
+        font-size: large;
+        text-align: justify;
+        background-color: whitesmoke;
+        ;
     }
-    h1{
-font-family: serif; text-align: center; font-style: normal; font-variant: normal; color: darkred; font-weight: 700;;}
-    h2{
-font-family: serif; text-align: left; font-style: normal; font-variant: normal; color: darkred; font-weight: 700;;}
-    .datum{
-font-style: italic; font-variant: normal; font-weight: 600;;
-}
-</style>
+
+    h1 {
+        font-family: serif;
+        text-align: center;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    h2 {
+        font-family: serif;
+        text-align: left;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    .datum {
+        font-style: italic;
+        font-variant: normal;
+        font-weight: 600;
+        ;
+    }
+
+    nav {
+        margin: 20px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        background-color: indianred;
+        border-collapse: separate;
+        padding: 20px;
+        ;
+    }
+    </style>
 </head>
+
 <body>
-    
-<h1>George Orwell</h1>
-<p>George Orwell byl britský spisovatel, novinář a esejista, původním jménem Eric Arthur Blair. Narodil se <span class="datum">25. června 1903</span> v Indii a zemřel <span class="datum">21. ledna 1950</span>. Orwell je znám svými politicky angažovanými díly, která kritizují totalitní režimy a autoritářskou moc.</p>
+    <nav>
+        <a href="./knihy">Orwellova díla</a>
+        <a href="./1984">Úryvek 1984</a>
+        <a href="./Farma">Úryvek Farmy zvířat</a>
+        <a href="./Katalansko">Úryvek Holdu Katalánsku</a>
+    </nav>
 
-<img src="https://a2larm.cz/wp-content/uploads/2018/07/25600363458_49fe18c8c4_o.jpg" width=1000 align=middle alt="George Orwell">
+    <h1>George Orwell</h1>
+    <p>George Orwell byl britský spisovatel, novinář a esejista, původním jménem Eric Arthur Blair. Narodil se <span class="datum">25. června 1903</span> v Indii a zemřel <span class="datum">21. ledna 1950</span>. Orwell je znám svými politicky angažovanými díly, která kritizují totalitní režimy a autoritářskou moc.</p>
 
-<h2>Biografie</h2>
-<p>George Orwell se narodil v Indii, jež byla tehdy součástí Britského impéria a kde jeho otec Richard Walmesley Blair <span class="datum">(1857–1939)</span> pracoval jako úředník. Když bylo Orwellovi kolem jednoho roku, odvezla ho jeho matka Ida Mabel Blairová <span class="datum">(1875–1943)</span> do Anglie. Otce viděl až za několik let. Měl dvě sestry, starší Marjorie <span class="datum">(1898–1946)</span> a mladší Avril <span class="datum">(1908–1978)</span>. Vyrůstal v Oxfordshiru a podle místní říčky Orwell si později zvolil pseudonym. Svou rodinu později popsal jako „nižší vyšší střední třídu“.</p>
+    <img src="https://a2larm.cz/wp-content/uploads/2018/07/25600363458_49fe18c8c4_o.jpg" width=1000 align=middle alt="George Orwell">
 
-<p>Vystudoval soukromou střední školu a prestižní Eton College. Jelikož mu rodiče nemohli platit studium na univerzitě, začal v roce <span class="datum">1922</span> pracovat pro Indickou imperiální policii v tehdejší Britské Indii (v Barmě). Zde jsou počátky jeho nenávisti k imperialismu a také se zde začal klonit k levicové politice. Své zážitky popsal v románové prvotině Barmské dny (anglicky Burmese Days), vydané v roce 1934.</p>
+    <h2>Biografie</h2>
+    <p>George Orwell se narodil v Indii, jež byla tehdy součástí Britského impéria a kde jeho otec Richard Walmesley Blair <span class="datum">(1857–1939)</span> pracoval jako úředník. Když bylo Orwellovi kolem jednoho roku, odvezla ho jeho matka Ida Mabel Blairová <span class="datum">(1875–1943)</span> do Anglie. Otce viděl až za několik let. Měl dvě sestry, starší Marjorie <span class="datum">(1898–1946)</span> a mladší Avril <span class="datum">(1908–1978)</span>. Vyrůstal v Oxfordshiru a podle místní říčky Orwell si později zvolil pseudonym. Svou rodinu později popsal jako „nižší vyšší střední třídu“.</p>
 
-<p>V roce <span class="datum">1927</span> se Orwell vrátil zpět do Anglie, začal psát eseje a pracovat jako novinář. Nějakou dobu žil na ulici jako tulák a pohyboval se mezi spodinou společnosti. Zkušenost zúročil například v knize Na dně v Paříži a Londýně (anglicky Down and Out in Paris and London), vydané v roce <span class="datum">1933</span>. Politické události v Evropě se ho silně osobně dotýkaly, a tak se stal socialistou, antifašistou a kritikem všech nedemokratických politických tendencí.</p>
+    <p>Vystudoval soukromou střední školu a prestižní Eton College. Jelikož mu rodiče nemohli platit studium na univerzitě, začal v roce <span class="datum">1922</span> pracovat pro Indickou imperiální policii v tehdejší Britské Indii (v Barmě). Zde jsou počátky jeho nenávisti k imperialismu a také se zde začal klonit k levicové politice. Své zážitky popsal v románové prvotině Barmské dny (anglicky Burmese Days), vydané v roce 1934.</p>
 
-<p>Po roce <span class="datum">1936</span> se jako dobrovolník zapojil do španělské občanské války, kde bojoval na vládní straně v jednotkách milicí POUM (Dělnické strany marxistického sjednocení). Zážitky z působení ve španělské občanské válce popsal v knize Hold Katalánsku, v níž líčí i těžké zranění z <span class="datum">20. května 1937</span>, kdy byl zasažen do krku fašistickým odstřelovačem. V roce <span class="datum">1938</span> žil půl roku v Maroku.</p>
+    <p>V roce <span class="datum">1927</span> se Orwell vrátil zpět do Anglie, začal psát eseje a pracovat jako novinář. Nějakou dobu žil na ulici jako tulák a pohyboval se mezi spodinou společnosti. Zkušenost zúročil například v knize Na dně v Paříži a Londýně (anglicky Down and Out in Paris and London), vydané v roce <span class="datum">1933</span>. Politické události v Evropě se ho silně osobně dotýkaly, a tak se stal socialistou, antifašistou a kritikem všech nedemokratických politických tendencí.</p>
 
-<p>Do roku <span class="datum">1940</span> psal recenze na knihy pro Nový anglický týdeník. Druhé světové války se neúčastnil kvůli vleklé tuberkulóze. V roce <span class="datum">1940</span> zahájil práci pro BBC a svými komentáři přispíval do novin a časopisů. Toto zaměstnání opustil v roce <span class="datum">1943</span>.</p>
+    <p>Po roce <span class="datum">1936</span> se jako dobrovolník zapojil do španělské občanské války, kde bojoval na vládní straně v jednotkách milicí POUM (Dělnické strany marxistického sjednocení). Zážitky z působení ve španělské občanské válce popsal v knize Hold Katalánsku, v níž líčí i těžké zranění z <span class="datum">20. května 1937</span>, kdy byl zasažen do krku fašistickým odstřelovačem. V roce <span class="datum">1938</span> žil půl roku v Maroku.</p>
 
-<p>Těsně před svou smrtí roku <span class="datum">1949</span> napsal svůj nejznámější román 1984. Zemřel na tuberkulózu ve věku 46 let.</p>
+    <p>Do roku <span class="datum">1940</span> psal recenze na knihy pro Nový anglický týdeník. Druhé světové války se neúčastnil kvůli vleklé tuberkulóze. V roce <span class="datum">1940</span> zahájil práci pro BBC a svými komentáři přispíval do novin a časopisů. Toto zaměstnání opustil v roce <span class="datum">1943</span>.</p>
 
-<h2>Orwellova díla</h2>
-<h3>Seznam knih i se stručným dějem zde</h3>
-<ul>
-    <li>1984</li>
-    <li>Farma zvířat</li>
-    <li>Hold Katalánsku</li>
-    <li>Tak to vidím já</li>
-    <li>Barmské dny</li>
-    <li>Politika a anglický jazyk</li>
-</ul>
+    <p>Těsně před svou smrtí roku <span class="datum">1949</span> napsal svůj nejznámější román 1984. Zemřel na tuberkulózu ve věku 46 let.</p>
 
-<h2>Zajímavá fakta</h2>
-<ul>
-     <li>G. Orwell nesnášel kolonialismus</li>
-     <li>Dva roky byl v levicové politické straně jménem Independent labour party</li>
-     <li>V různé míře ovládal sedm cizích jazyků</li>
-     <li>Dobrovolně bojoval ve španělské občanské válce</li>
-     <li>Měl kozu, která se jmenovala Muriel</li>
-     <li>Udal Charlieho Chaplina a další umělce za to, že byli údajně komunisté</li>
-</ul>
+    <h2>Orwellova díla</h2>
+    <ul>
+        <li>1984</li>
+        <li>Farma zvířat</li>
+        <li>Hold Katalánsku</li>
+        <li>Tak to vidím já</li>
+        <li>Barmské dny</li>
+        <li>Politika a anglický jazyk</li>
+    </ul>
+
+    <h2>Zajímavá fakta</h2>
+    <ul>
+        <li>G. Orwell nesnášel kolonialismus</li>
+        <li>Dva roky byl v levicové politické straně jménem Independent labour party</li>
+        <li>V různé míře ovládal sedm cizích jazyků</li>
+        <li>Dobrovolně bojoval ve španělské občanské válce</li>
+        <li>Měl kozu, která se jmenovala Muriel</li>
+        <li>Udal Charlieho Chaplina a další umělce za to, že byli údajně komunisté</li>
+    </ul>
 </body>
+
 </html>
