@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<title>George Orwell</title>
+
+<head>
+    <style>
+    body {
+        font-family: serif;
+        font-size: large;
+        text-align: justify;
+        background-color: whitesmoke;
+        ;
+    }
+
+    h1 {
+        font-family: serif;
+        text-align: center;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    h2 {
+        font-family: serif;
+        text-align: left;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    .datum {
+        font-style: italic;
+        font-variant: normal;
+        font-weight: 600;
+        ;
+    }
+
+    nav {
+        margin: 20px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        background-color: #900;
+        border-collapse: separate;
+        padding: 20px;
+        ;
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="./George Orwell">George Orwell</a>
+        <a href="./knihy">Orwellova díla</a>
+        <a href="./1984">Úryvek 1984</a>
+        <a href="./Farma">Úryvek Farmy zvířat</a>
+        <a href="./Katalansko">Úryvek Holdu Katalánsku</a>
+    </nav>
+    
+    <h1>Orwellova díla</h1>
+    <h2>1984</h2>
+    <h3>Základní informace</h3>
+    <p>1984 je antiutopický román anglického spisovatele George Orwella dokončený v roce <span class="datum">1949</span>, publikován  <span class="datum">8. června</span> téhož roku v Londýně nakladatelstvím Secker and Warburg. Tato kniha, z níž pochází známý výrok Velký bratr tě sleduje!, je jedním z nejzásadnějších literárních děl  <span class="datum">20. století</span>.</p>
+    <h3>Děj</h3>
+    <p>Hlavní hrdina, Winston Smith, pracuje jako úředník v Londýně. V zemi vládne Strana se svou totalitní ideologií Angsoc. Obyvatelé se dělí na tři strany. Vnitřní strana – lidé ve straně, jediní, kteří si užívají luxusu. Vnější strana – pracují pro Vnitřní stranu. Prolét – chudí občané. Občané nemají žádnou svobodu, jejich chování hlídá Ideopolicie. Strana zavádí nový jazyk Newspeak. Svět tvoří tři velmoci – Oceánie, Eastasie, Eurasie. Winston pracuje jako úředník na Ministerstvu pravdy. Dojde mu, že nechce stranu podporovat. Spolčí se s O’Brienem, o kterém si myslí, že je také odpůrce. V té době se také potká s Julií. Stane se součástí spiklenecké organizace Bratrstvo. Jednoho dne je však i s Julií zatčen a vyslýchán na Ministerstvu lásky. Vyslýchá ho právě O’Brien. Následně je nucen přijmout učení Strany. Těsně před smrtí začne Velkého Bratra skutečně milovat</p>
+    <h3> <a href="./1984">Ukázka</a></h3>
+    
+    <img src="https://cdn.kobo.com/book-images/c9472126-7f96-402d-ba57-5ba4c0f4b238/353/569/90/False/nineteen-eighty-four-1984-george.jpg" alt="Přebal 1984" class="center" width=400>
+    
+    <h2>Farma zvířat</h2>
+    <h3>Základní informace</h3>
+    <p>Farma zvířat je alegorická satirizující novela George Orwella, ukazující formou bajky politické vztahy a děje mezi lidmi. Autor se důsledně vyhýbá vysvětlujícím komentářům, ale vzhledem k době napsání díla je nejzjevnější podobenství se stalinskou degenerací Sovětského svazu.</p>
+    <h3>Děj</h3>
+    <p>Jednoho dne opilý farmář Jones zapomene zavřít svá zvířata, která se sejdou ve stodole a povídají si o revoluci, kterou by chtěla uskutečnit (vyhnat z farmy lidi a vládnout si sama). Hlavním strůjcem myšlenky je starý vepř Major, který také naučí zvířata zpívat píseň Zvířata Anglie. Brzy ale zemře.
+Po jeho smrti zvířata opravdu uskuteční revoluci (úspěšně). Nějakou dobu se jim žije tak, jak si vysnili. Všechna zvířata pracují a mají se lépe než před tím. Je stanoveno sedm přikázání (ovce mají jen jedno) a prasata se naučí číst, aby podle knih pana Jonese mohla řídit veškeré práce na farmě. Zvířatům se podaří odrazit i první útok lidí na farmu. Prasata však pracují čím dál méně a začínají dělat mezi sebou a ostatními zvířaty rozdíly.
+
+Kuliš, jeden z vepřů přijde s nápadem na stavbu větrného mlýna, který by vyráběl elektřinu a pomohl tak osvobodit zvířata od těžké práce. Sám zhotoví nákres, ale hned poté je vyhnán Napoleonem z farmy. Ten předtím stavbu mlýna nechtěl, ale nyní otáčí a všechna zvířata nutí pracovat, aby se mlýn včas dokončil. Díky svým vychovaným psům nemá s odporem zvířat žádný problém. Téměř dokončený mlýn však shodila vichřice. A to i napodruhé. Pištík mění přikázání napsaná na zdi farmy a přesvědčuje zvířata, že tak zněla odjakživa. Také s jeho pomocí Napoleon šíří zvěsti o sabotáži stavby mlýna samotným Kulišem, kterého kdysi vyhnal.
+
+Prasata si dál upevňují moc mezi zvířaty, najednou mohou spát v posteli, dokonce začnou chodit po dvou, stýkat se s okolním světem a obchodovat s lidmi. Příběh vrcholí hostinou prasat s okolními farmáři, kterou zvířata sledují oknem. A není možné od sebe prasata a lidi rozeznat…</p>
+<h3> <a href="./Farma">Ukázka</a></h3>
+
+<img src="https://cdn.albatrosmedia.cz/Images/Product/87514503/?ts=638254236482170000" alt="Přebal Farmy zvířat" class="center" width=400>
+
+    <h2>Hold Katalánsku</h2>
+    <h3>Základní informace</h3>
+    <p>V díle Hold Katalánsku (Homage to Catalonia) zaznamenal své osobní zkušenosti a poznatky z doby od <span class="datum">prosince 1936</span> do <span class="datum">června 1937</span> o španělské občanské válce, které se aktivně zúčastnil v řadách milice strany POUM.</p>
+    <h3>Děj</h3>
+    <p>V prosinci <span class="datum">1936</span> se vydal George Orwell do Španělska, aby zde na republikánské straně bojoval proti Frankovým nacionalistům. Přestože ho Henry Miller v Paříži od úmyslu jít do války zrazoval, Orwell se připojil k milicím POUM na aragonské frontě. V bojích utrpěl vážné zranění, když mu nepřátelský ostřelovač prostřelil krk, a po uzdravení byl donucen za zhoršující se politické situace ze Španělska uprchnout. Ve své reportážní knize Hold Katalánsku autor s odzbrojující upřímností popisuje bezprostřední průběh války, revoluční euforii, hrůzy bombardování, vlastní zranění na frontě, ale i přátelství a zradu mezi stoupenci svobodného Španělska.</p>
+    <h3> <a href="./Katalansko">Ukázka</a></h3>
+    
+        <img src="https://www.antikavion.cz/storage/images/hold-katalansku-a-ohlednuti-za-spanelskou-valkou-george-orwell-1991-534687-0.jpg" alt="Přebal Holdu Katalánsku" class="center" width=400>
+    
+    <h2>Tak to vidím já</h2>
+    <h3>Základní informace</h3>
+    <p>George Orwell byl politik, ale velký výběr jeho publicistiky ukazuje, že jeho témata byla velmi široká - od každodenní politiky až po mytí nádobí a pití anglického čaje. Těžištěm tohoto výběru je osmdesát autorových sloupků, které psal pro Tribune ve <span class="datum">čtyřicátých letech 20. století</span>.</p>
+    <h3>Děj</h3>
+    <p>Rozsáhlý výběr jeho esejů a recenzí. Na tomto širokém a tematicky rozmanitém prostoru se projevuje nejen Orwellova novinářská zdatnost, světonázor a názorové zaměření, ale vlastně celý proces objevování a zkoumání témat, která později rozpracoval ve svých románech Farma zvířat a 1984, jako je nedůvěra k intelektuálům, podezíravost vůči komunismu, sociální a třídní rozdělení, vlastenectví versus nacionalismus a další.</p>
+    
+        <img src="https://mrtns.sk/tovar/_l/838/l838869.jpg?v=16963921582" alt="Přebal Tak to vidím já" class="center" width=400>
+    
+    <h2>Barmské dny</h2>
+    <h3>Základní informace</h3>
+    <p>Barmské dny je novela britského spisovatele George Orwella. Poprvé byla publikována v Británii roku <span class="datum">1934</span>. V Česku vyšla roku <span class="datum">1998</span> v překladu Zuzany Šťastné. Kniha byla napsána podle autorových zkušeností při pobytu v Barmě v letech <span class="datum">1922-1927</span>, kdy je Barma řízená z Dillí jako součást Britské Indie.</p>
+    <h3>Děj</h3>
+    <p>John Flory pracuje v Barmě jako obchodník s teakovým dřevem. Je otrávený britskou imperiální politikou a jediné povyražení nachází v rozhovorech s indickým doktorem Vérasvámím a později i ve vztahu s mladou Angličankou Elizabeth Lackersteenovou. Když chce pomoci doktoru Vérasvámímu vstoupit do klubu, jehož členové jsou pouze běloši, naplno tak odhalí pokrytectví a rasistické předsudky vládnoucích Britů. </p>
+    
+        <img src="https://www.databazeknih.cz/img/books/35_/351864/bmid_barmske-dny-08x-351864.jpeg" alt="Přebal Barmských dnů" class="center" width=400>
+</body>
+</html>
