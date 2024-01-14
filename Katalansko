@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<title>Hold Katalánsku</title>
+
+<head>
+    <style>
+    body {
+        font-family: serif;
+        font-size: large;
+        text-align: justify;
+        background-color: whitesmoke;
+        ;
+    }
+
+    h1 {
+        font-family: serif;
+        text-align: center;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    h2 {
+        font-family: serif;
+        text-align: left;
+        font-style: normal;
+        font-variant: normal;
+        color: darkred;
+        font-weight: 700;
+        ;
+    }
+
+    .datum {
+        font-style: italic;
+        font-variant: normal;
+        font-weight: 600;
+        ;
+    }
+
+    nav {
+        margin: 20px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        background-color: #900;
+        border-collapse: separate;
+        padding: 20px;
+        ;
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="./index">George Orwell</a>
+        <a href="./knihy">Orwellova díla</a>
+        <a href="./1984">Úryvek 1984</a>
+        <a href="./Farma">Úryvek Farmy zvířat</a>
+        <a href="./Katalansko">Úryvek Holdu Katalánsku</a>
+    </nav>
+<h1>Úryvek z knihy Hold Katalánsku</h1>
+<h2>Ital</h2>
+<p>V  Leninových  kasárnách  v  Barceloně,  den  před  tím,  než  jsem  nastoupil  k  milici,  jsem  uviděl  jednoho  italského milicionáře, jak stojí před důstojnickým stolem. Byl to mladík asi pětadvacetiletý, s tvrdým výrazem, světle  rezavými  vlasy  a  širokými  rameny.  Zašpičatělou  koženou  čapku  měl  staženou  pres  oko.  Byl  ke  mne  obrácen profilem, bradu opřenou o prsa, vyjeveně se mračil na mapu, kterou jeden z důstojníků na stole rozložil. Něco v jeho tváři mne upoutalo. Byla to tvářčlověka, který by pro přítele dokázal zabít i nechal se zabil - tvář, jakou  byste  očekávali  u  anarchisty,  ačkoliv  zrovna  tak  mohl  být  i  komunista.  Byla  v  ní  jak  upřímnost,  tak  divokost;  a  také  až  dojemná  úcta,  jakou  chovají  nevzdělaní  lidé  ke  svým  nadřízeným.  Nepochybně  z  té  mapy  nebyl nijak moudrý; nepochybně považoval čtení z mapy za omračující intelektuálský výkon. Těžko bych mohl vysvětlit proč, ale málokdy jsem se setkal s někým, ke komu bych cílil tak okamžitou sympatii. Během hovoru, který se vedl kolem stolu, z nějaké poznámky vyplynulo, že jsem cizinec. Ital zvedl hlavu a rychle řekl:<br> „Italiano?“<br> Odpověděl jsem svojí špatnou španělštinou:<br> „No, Inglés. Y tu?“<br> „Italiano.“<br> Když jsme odcházeli, přešel přes místnost a silně mi stiskl ruku. Je až s podivem, jaký cit můžeme chovat k cizímu člověku! Bylo to, jako by jeho a moje myšlení na okamžik překlenuly bariéru jazyka a tradice a setkaly se v úplném soukromí. Doufal jsem. že jsem mu byl zrovna tak sympatický, jako on mně. Věděl jsem však také, že abych si mohl uchoval svůj první dojem o něm, nikdy se s ním již nesmím setkal; a netřeba dodávat, že jsem se s ním také již nikdy nesetkal. Ve Španělsku se pořád navazovaly známosti tohoto druhu. Zmiňuji  se  o  tomto  italském  milicionáři  proto,  že  se  živě  zapsal  do  mé  paměti.  Svojí  otrhanou  uniformou  a  živou  jímavou  tváří  mi  ztělesňuje  zvláštní  atmosféru  oné  doby.  Je  spojen  se  všemi  mými  vzpomínkami  na  ono  válečné období - rudé vlajky v Barceloně, omšelé vlaky plné otrhaných vojáků, které se pomalu vlekly na frontu, šedivá, válkou poznamenaná města podél trati, blátivé a mrazivé zákopy v horách.</p>
+<img src="https://images.wsj.net/im-402784/?width=700&height=475" alt="Obrázek muže na kterého míří pušky" width=1000 class="center">
+</body>
+</html>
